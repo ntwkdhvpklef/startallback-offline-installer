@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Desktop+Customization-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Windows+Customization-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 StartAllBack Free Installer** — StartAllBack is a Windows 11 customization tool that restores and enhances the Windows 10-style taskbar, Start Menu, and Explorer interface. Works without internet access, no account required. Full offline installation.
+**💻 StartAllBack Free Installer** — StartAllBack is a Windows 11 shell customization application that restores the classic Windows 10/7 Start menu, taskbar, and Explorer appearance while keeping Windows 11's performance improvements. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About StartAllBack
 
-StartAllBack is a Windows 11 customization tool that restores and enhances the Windows 10-style taskbar, Start Menu, and Explorer interface. It provides hundreds of customization options while maintaining Windows 11's performance and security features.
+StartAllBack is a Windows 11 shell customization application that restores the classic Windows 10/7 Start menu, taskbar, and Explorer appearance while keeping Windows 11's performance improvements. Customize taskbar position, restore familiar menu behaviors, and bring back the traditional Windows interface for users who prefer classic navigation paradigms over Windows 11's redesigned UI.
 
 ---
 
 ## ❌ Problem: StartAllBack is hard to access
 
-- **Paid License** — Requires purchase after trial period
-- **Windows 11 Specific** — Less needed on Windows 10 which already has a familiar interface
-- **Windows Updates** — Microsoft updates occasionally break StartAllBack functionality temporarily
-- **Shell Modification Risk** — Deep shell integration occasionally causes edge-case stability issues
+- **Windows 11 Focus** — Designed specifically for Windows 11; different behavior on older versions
+- **Commercial License** — Requires paid license
+- **Windows Updates** — Major Windows updates can temporarily break compatibility
+- **System Integration** — Deep shell integration carries a small stability risk
 
 ---
 
@@ -121,7 +121,7 @@ StartAllBack is a Windows 11 customization tool that restores and enhances the W
 
 ---
 
-**StartAllBack Free Installer** — StartAllBack is a Windows 11 customization tool that restores and enhances the Windows 10-style taskbar, Start Menu, and Explorer interface. Install without internet connection today!
+**StartAllBack Free Installer** — StartAllBack is a Windows 11 shell customization application that restores the classic Windows 10/7 Start menu, taskbar, and Explorer appearance while keeping Windows 11's performance improvements. Install without internet connection today!
 
 <div align="center">
 
